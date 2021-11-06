@@ -1,4 +1,4 @@
-var gameState;
+var gameState=0; //nos hizo falta inicializar el estado del juego
 var playerCount;
 var database;
 var form;
